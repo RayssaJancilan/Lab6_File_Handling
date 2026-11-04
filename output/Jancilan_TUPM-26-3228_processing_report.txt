@@ -1,0 +1,12 @@
+PYTHON FILE-HANDLING PROCESSING REPORT
+---------------------------------
+Last Name: Jancilan
+Student ID: TUPM-26-3228
+Seed Digit: 8
+ID Sum: 23
+Verification Value: 192
+Dataset Sample Size: 73
+Valid Records: 73
+Average Global Active Power: 4.050
+JSON File: Jancilan_TUPM-26-3228_record.json
+Backup File: Jancilan_TUPM-26-3228_record.csv
