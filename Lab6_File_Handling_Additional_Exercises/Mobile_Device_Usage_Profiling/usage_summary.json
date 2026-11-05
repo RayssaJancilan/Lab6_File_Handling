@@ -1,0 +1,14 @@
+{
+    "student_id": "TUPM-26-3228",
+    "seed_digit": "8",
+    "assigned_operating_system": "Android",
+    "target_behavior_class": 4,
+    "total_records_in_dataset": 700,
+    "records_matching_operating_system": 554,
+    "records_in_target_behavior_class": 110,
+    "average_battery_drain_mAh_per_day": 2101.2181818181816,
+    "average_data_usage_MB_per_day": 1235.0727272727272,
+    "exported_record_count": 110,
+    "count_verification": "PASSED",
+    "exported_csv_file": "selected_users.csv"
+}

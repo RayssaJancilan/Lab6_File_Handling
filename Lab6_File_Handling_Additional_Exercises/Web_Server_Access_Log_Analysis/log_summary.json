@@ -1,0 +1,44 @@
+{
+    "student_id": "TUPM-26-3228",
+    "id_sum": "23",
+    "seed_digit": "8",
+    "records_processed": 1023,
+    "target_status_class": "2xx",
+    "target_records": 853,
+    "status_class_counts": {
+        "2xx": 853,
+        "3xx": 165,
+        "4xx": 5,
+        "5xx": 0
+    },
+    "status_code_counts": {
+        "200": 845,
+        "302": 144,
+        "304": 21,
+        "206": 8,
+        "404": 5
+    },
+    "top_5_requested_urls": [
+        {
+            "url": "GET /login.php HTTP/1.1",
+            "requests": 105
+        },
+        {
+            "url": "GET /home.php HTTP/1.1",
+            "requests": 91
+        },
+        {
+            "url": "GET /css/bootstrap.min.css HTTP/1.1",
+            "requests": 38
+        },
+        {
+            "url": "GET /css/normalize.css HTTP/1.1",
+            "requests": 38
+        },
+        {
+            "url": "GET /js/vendor/jquery-1.12.0.min.js HTTP/1.1",
+            "requests": 37
+        }
+    ],
+    "filtered_csv_file": "filtered_logs.csv"
+}

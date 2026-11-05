@@ -1,0 +1,81 @@
+{
+    "target_year": 2023,
+    "total_records_in_dataset": 3000,
+    "incidents_in_target_year": 315,
+    "valid_financial_loss_records": 315,
+    "invalid_financial_loss_records": 0,
+    "total_financial_loss_million_usd": 15958.08,
+    "average_financial_loss_million_usd": 50.66,
+    "five_costliest_incidents": [
+        {
+            "Country": "Australia",
+            "Year": "2023",
+            "Attack Type": "Malware",
+            "Target Industry": "Retail",
+            "Financial Loss (in Million $)": "99.72",
+            "Number of Affected Users": "307143",
+            "Attack Source": "Hacker Group",
+            "Security Vulnerability Type": "Social Engineering",
+            "Defense Mechanism Used": "VPN",
+            "Incident Resolution Time (in Hours)": "1",
+            "financial_loss_value": 99.72,
+            "rank": 1
+        },
+        {
+            "Country": "France",
+            "Year": "2023",
+            "Attack Type": "Man-in-the-Middle",
+            "Target Industry": "Telecommunications",
+            "Financial Loss (in Million $)": "99.71",
+            "Number of Affected Users": "357542",
+            "Attack Source": "Hacker Group",
+            "Security Vulnerability Type": "Zero-day",
+            "Defense Mechanism Used": "Antivirus",
+            "Incident Resolution Time (in Hours)": "21",
+            "financial_loss_value": 99.71,
+            "rank": 2
+        },
+        {
+            "Country": "USA",
+            "Year": "2023",
+            "Attack Type": "DDoS",
+            "Target Industry": "IT",
+            "Financial Loss (in Million $)": "99.64",
+            "Number of Affected Users": "248383",
+            "Attack Source": "Insider",
+            "Security Vulnerability Type": "Social Engineering",
+            "Defense Mechanism Used": "Firewall",
+            "Incident Resolution Time (in Hours)": "55",
+            "financial_loss_value": 99.64,
+            "rank": 3
+        },
+        {
+            "Country": "Australia",
+            "Year": "2023",
+            "Attack Type": "DDoS",
+            "Target Industry": "IT",
+            "Financial Loss (in Million $)": "99.62",
+            "Number of Affected Users": "285609",
+            "Attack Source": "Unknown",
+            "Security Vulnerability Type": "Weak Passwords",
+            "Defense Mechanism Used": "Firewall",
+            "Incident Resolution Time (in Hours)": "46",
+            "financial_loss_value": 99.62,
+            "rank": 4
+        },
+        {
+            "Country": "Australia",
+            "Year": "2023",
+            "Attack Type": "SQL Injection",
+            "Target Industry": "Healthcare",
+            "Financial Loss (in Million $)": "99.19",
+            "Number of Affected Users": "538688",
+            "Attack Source": "Nation-state",
+            "Security Vulnerability Type": "Zero-day",
+            "Defense Mechanism Used": "Encryption",
+            "Incident Resolution Time (in Hours)": "36",
+            "financial_loss_value": 99.19,
+            "rank": 5
+        }
+    ]
+}

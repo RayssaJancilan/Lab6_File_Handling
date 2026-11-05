@@ -1,0 +1,44 @@
+========================================
+       CYBERSECURITY INCIDENT REPORT
+========================================
+
+TARGET YEAR: 2023
+
+--- DATASET INFORMATION ---
+Total records in dataset: 3000
+Incidents in target year: 315
+
+--- COUNT PER ATTACK TYPE ---
+DDoS: 51
+Malware: 55
+Man-in-the-Middle: 50
+Phishing: 46
+Ransomware: 50
+SQL Injection: 63
+
+--- FINANCIAL LOSS ---
+Valid financial records: 315
+Invalid financial records: 0
+Total financial loss: $15958.08 million
+Average financial loss: $50.66 million
+
+--- FIVE COSTLIEST INCIDENTS ---
+1. Malware | Loss: $99.72 million | Original record: 1371
+2. Man-in-the-Middle | Loss: $99.71 million | Original record: 1913
+3. DDoS | Loss: $99.64 million | Original record: 2380
+4. DDoS | Loss: $99.62 million | Original record: 2161
+5. SQL Injection | Loss: $99.19 million | Original record: 233
+
+--- OUTPUT FILES ---
+Filtered CSV: filtered_incidents.csv
+JSON Summary: costliest_incidents.json
+JSON Backup: costliest_incidents_backup.json
+Text Report: cybersecurity_report.txt
+Exported CSV records: 315
+CSV count verification: PASSED
+Backup verification: PASSED
+Backup file size: 3125 bytes
+
+========================================
+          END OF REPORT
+========================================
