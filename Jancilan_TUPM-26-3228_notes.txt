@@ -1,5 +1,0 @@
-Student: Jancilan
-Student ID: TUPM-26-3228
-Seed: 8
-ID Sum: 23
-Verification Value: 192
